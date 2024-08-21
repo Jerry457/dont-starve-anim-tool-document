@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"command": "npm run docs:dev",
+			"problemMatcher": [],
+			"label": "dev",
+			"detail": "npx vite --port=4000",
+			"isBackground": true,
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel":"new",
+				"showReuseMessage": true,
+				"clear": false
+			}
+		},
+	]
+}
