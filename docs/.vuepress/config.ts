@@ -4,6 +4,7 @@ import { viteBundler } from "@vuepress/bundler-vite"
 import { sidebarZh, sidebarEn } from "./sidebar"
 
 export default defineUserConfig({
+    base: "/dont-starve-anim-tool-document/",
     theme: defaultTheme({
         logo: "https://vuejs.press/images/hero.png",
         repo: "https://github.com/dont-starve-anim-tool-docunment",
