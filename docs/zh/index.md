@@ -48,4 +48,4 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x, y
     <img src="../images/animation-name-result.png" style="width:40%"/>
 </p>
 
-2. 插槽名对应动画中的图层名(layer)，插槽名的格式为`{layerName}-{num}`，在打包时自动去除数字后缀`-{num} `(可选，如果没有匹配到`-{num}`，则使用插槽名作为图层名）
+2. 插槽名对应动画中的图层名(layer)，插槽名的格式为`{layerName}-{num}`，在打包时自动去除数字后缀`-{num} `（可选，如果没有匹配到`-{num}`，则使用插槽名作为图层名）
