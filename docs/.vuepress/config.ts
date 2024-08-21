@@ -6,7 +6,7 @@ import { sidebarZh, sidebarEn } from "./sidebar"
 export default defineUserConfig({
     theme: defaultTheme({
         logo: "https://vuejs.press/images/hero.png",
-        repo: "https://github.com/dont-starve-anim-tool-docunment",
+        repo: "https://github.com/Jerry457/dont-starve-anim-tool-document",
         locales: {
             "/": {
                 selectLanguageName: "English",
