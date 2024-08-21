@@ -1,3 +1,4 @@
+import { redirectPlugin } from "@vuepress/plugin-redirect"
 import { defaultTheme } from "@vuepress/theme-default"
 import { defineUserConfig } from "vuepress/cli"
 import { viteBundler } from "@vuepress/bundler-vite"
@@ -8,7 +9,7 @@ export default defineUserConfig({
         logo: "https://vuejs.press/images/hero.png",
         repo: "https://github.com/Jerry457/dont-starve-anim-tool-document",
         locales: {
-            "/": {
+            "/en/": {
                 selectLanguageName: "English",
                 sidebar: sidebarEn,
             },
@@ -41,7 +42,7 @@ export default defineUserConfig({
     }),
 
     locales: {
-        "/": {
+        "/en/": {
             lang: "en-US",
             title: "dont-starve-anim-tool",
         },
@@ -50,6 +51,8 @@ export default defineUserConfig({
             title: "dont-starve-anim-tool",
         },
     },
+
+    plugins: [[redirectPlugin({ autoLocale: true })]],
 
     bundler: viteBundler(),
 })
