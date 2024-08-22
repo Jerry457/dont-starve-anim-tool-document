@@ -52,7 +52,8 @@ export default defineUserConfig({
         },
     },
 
-    plugins: [[redirectPlugin({ autoLocale: true })]],
+    plugins: [[redirectPlugin({ autoLocale: true, })]],
 
     bundler: viteBundler(),
+
 })
