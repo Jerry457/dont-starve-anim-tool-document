@@ -23,10 +23,10 @@ export const sidebarZh: SidebarOptions = {
             children: [
                 {
                     text: "介绍",
-                    link: "/zh/index.md",
+                    link: "/zh/spine/introduce.md",
                 },
                 {
-                    text: "使用须知",
+                    text: "说明",
                     link: "/zh/spine/instructions.md",
                 },
                 {

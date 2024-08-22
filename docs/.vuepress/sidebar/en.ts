@@ -1,7 +1,7 @@
 import { SidebarOptions } from '@vuepress/theme-default'
 
 export const sidebarEn: SidebarOptions = {
-    "/zh": [
+    "/en": [
         {
             text: "饥荒动画",
             collapsible: true,
@@ -23,10 +23,10 @@ export const sidebarEn: SidebarOptions = {
             children: [
                 {
                     text: "介绍",
-                    link: "/zh/index.md",
+                    link: "/zh/spine/introduce.md",
                 },
                 {
-                    text: "使用须知",
+                    text: "说明",
                     link: "/zh/spine/instructions.md",
                 },
                 {
