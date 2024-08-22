@@ -31,12 +31,12 @@ export const sidebarZh: SidebarOptions = {
                     link: "/zh/spine/introduce.md",
                 },
                 {
-                    text: "支持",
-                    link: "/zh/spine/support.md",
-                },
-                {
                     text: "使用须知",
                     link: "/zh/spine/instructions.md",
+                },
+                {
+                    text: "支持功能",
+                    link: "/zh/spine/support.md",
                 },
                 {
                     text: "格式规范",
