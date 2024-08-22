@@ -14,11 +14,16 @@ export const sidebarZh: SidebarOptions = {
         },
         {
             text: "动画工具",
-            link: "/zh/anim-tool/instructions.md",
             collapsible: true,
+            children: [
+                {
+                    text: "导出",
+                    link: "/zh/anim-tool/export.md",
+                },
+            ]
         },
         {
-            text: "Spine",
+            text: "Spine工具",
             collapsible: true,
             children: [
                 {
@@ -26,12 +31,24 @@ export const sidebarZh: SidebarOptions = {
                     link: "/zh/spine/introduce.md",
                 },
                 {
-                    text: "说明",
+                    text: "支持",
+                    link: "/zh/spine/support.md",
+                },
+                {
+                    text: "使用须知",
                     link: "/zh/spine/instructions.md",
                 },
                 {
                     text: "格式规范",
-                    link: "/zh/spine/spine-format.md",
+                    link: "/zh/spine/format.md",
+                },
+                {
+                    text: "导入导出",
+                    link: "/zh/spine/export-import.md",
+                },
+                {
+                    text: "常见问题",
+                    link: "/zh/spine/errors.md",
                 },
                 {
                     text: "使用案例",

@@ -1,12 +1,12 @@
-本文档中所有提到的命名都不能出现中文字符和特殊字符。
+<h2>注意：本文中所有提到的命名均不能出现中文字符和特殊字符。</h2>
 
 示例文件:[axe-example](https://github.com/Jerry457/dont-starve-anim-tool-document/tree/main/docs/public/spine-anims/axe-example.zip)
 
-## 1. 图片文件目录命名规范
+## 图片文件目录命名规范
 
 1. 图片的文件根目录名必须为builds。
 
-2. builds下存放不同build文件夹，每个文件夹名字是build的名字。<div id="1" style="display:none"> </div>
+2. builds下存放不同build文件夹，每个文件夹名字是build的名字。
 
 3. 在每个build文件夹里放入不同的symbol文件夹，文件夹名是symbol名字。
 
@@ -26,7 +26,7 @@
     <img src="../../public/images/build-name-result.png" style="width:40%"/>
 </p>
 
-## 2. 图片导入
+## 图片导入
 
 > ps: 处理swap_object，也就是手持武器贴图时需要使用，如果不使用原版动画解包素材，只是自己做动画可以不用管这个。
 
@@ -49,7 +49,7 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x，
     <img src="../../public/images/build-frame-result2.png" style="width:40%"/>
 </p>
 
-## 3. 动画命名规范
+## 动画命名规范
 
 1. 所有动画必须放在文件夹下，文件夹根目录名为bank名，子目录会添加到animation名中，如下图所示：
 
@@ -60,7 +60,7 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x，
 
 2. 插槽名对应动画中的图层名(layer)，插槽名的格式为 `{layerName}-{num}`，在打包时工具会自动去除数字后缀 `-{num} `（可选，如果没有匹配到 `-{num}`，则使用插槽名作为图层名）。
 
-## 4. 导出文件
+## 导出文件
 
 1. 按照图1设置，导出json文件, json文件需要放在[builds文件夹](#_1-图片文件目录命名规范)同级目录下。
 
@@ -69,7 +69,7 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x，
 3. 将zip文件拖入网站中，可自动编译，并且能在网站上预览和编辑打包后的编译。
 
 <p align="center">
-    <img src="../../public/images/export-setting.png"/>
+    <img src="../../public/images/spine-export-setting.png"/>
     <p align="center"> 图1 </p>
 </p>
 

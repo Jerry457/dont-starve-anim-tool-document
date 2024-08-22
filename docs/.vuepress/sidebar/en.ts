@@ -26,7 +26,7 @@ export const sidebarEn: SidebarOptions = {
                     link: "/zh/spine/introduce.md",
                 },
                 {
-                    text: "说明",
+                    text: "购买",
                     link: "/zh/spine/instructions.md",
                 },
                 {
