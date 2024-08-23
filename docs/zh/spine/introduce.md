@@ -6,7 +6,7 @@ Spine提供更强大的动画编辑功能，如贝赛尔曲线，骨骼动画，
 Spine官网: [https://esotericsoftware.com/](https://esotericsoftware.com/)
 
 ## Spine工具
-为饥荒动画提供Spine编辑器动画制作流程，并且解决饥荒动画制作中可能遇到的所有问题，如：
+为饥荒动画提供Spine编辑器动画制作流程，**做到所见即所得**，并且解决饥荒动画制作中可能遇到的所有问题，如：
 
 1. 解包后再打包后的图层名错误，导致Hide失效
 

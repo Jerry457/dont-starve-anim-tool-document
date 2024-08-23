@@ -8,7 +8,7 @@ export const sidebarZh: SidebarOptions = {
             children: [
                 {
                     text: "文件格式",
-                    link: "/zh/anim-document/file-format.md",
+                    link: "/zh/anim-document/format.md",
                 }
             ]
         },
