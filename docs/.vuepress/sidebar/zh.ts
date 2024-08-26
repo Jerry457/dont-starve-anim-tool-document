@@ -3,22 +3,16 @@ import { SidebarOptions } from '@vuepress/theme-default'
 export const sidebarZh: SidebarOptions = {
     "/zh": [
         {
-            text: "饥荒动画",
-            collapsible: true,
-            children: [
-                {
-                    text: "文件格式",
-                    link: "/zh/anim-document/format.md",
-                }
-            ]
-        },
-        {
             text: "动画工具",
             collapsible: true,
             children: [
                 {
-                    text: "导出",
-                    link: "/zh/anim-tool/export.md",
+                    text: "介绍",
+                    link: "/zh/anim-tool/introduce.md",
+                },
+                {
+                    text: "指南",
+                    link: "/zh/anim-tool/guide.md",
                 },
             ]
         },
@@ -53,6 +47,16 @@ export const sidebarZh: SidebarOptions = {
                 {
                     text: "使用案例",
                     link: "/zh/spine/example.md",
+                }
+            ]
+        },
+        {
+            text: "饥荒动画格式",
+            collapsible: true,
+            children: [
+                {
+                    text: "文件格式",
+                    link: "/zh/anim-document/format.md",
                 }
             ]
         },
