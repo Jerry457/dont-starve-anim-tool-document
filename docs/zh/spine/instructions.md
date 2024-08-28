@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-2. 点击网址旁边的按钮，点击此网站的权限。
+2. 点击网址左边的按钮，点击此网站的权限。
 
 <p align="center">
     <img src="../../public/images/web-permission-button.png"/>

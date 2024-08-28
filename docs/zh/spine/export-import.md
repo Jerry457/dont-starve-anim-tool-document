@@ -1,8 +1,8 @@
 ## Spine转饥荒动画
 
-1. [将上一步](/zh/spine/format.html#_4-导出文件)得到的zip文件，拖入网站中。
+1. [将上一步](/zh/spine/format.html#导出文件)得到的zip文件，拖入网站中。
 2. 点击export按钮，选择type为bin，**勾选repack按钮([否则没有tex贴图](/zh/spine/errors#问题1))**。
-3. 勾选其他需要的按钮，按钮功能请自行见[动画工具导出](/zh/anim-tool/export)。
+3. 勾选其他需要的按钮，按钮功能请自行见[动画工具导出](/zh/anim-tool/guide#导出)。
 4. 点击Download按钮，下载文件。
 
 <br/>

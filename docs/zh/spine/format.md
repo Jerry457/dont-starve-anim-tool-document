@@ -4,13 +4,13 @@
 
 ## 图片文件目录命名规范
 
-1. 图片的文件根目录名必须为builds。
+1. 图片的文件根目录名**必须**为`builds`。
 
 2. builds下存放不同build文件夹，每个文件夹名字是build的名字。
 
 3. 在每个build文件夹里放入不同的symbol文件夹，文件夹名是symbol名字。
 
-4. 在symbol名里存放图片，图片名字的格式必须为 `{symbolName}-{num}.png`，num从0开始，可以不连续。
+4. 在symbol名里存放png图片，图片名字的格式必须为 `{symbolName}-{num}.png`，num从0开始，可以不连续。
 
 如下图所示：
 1. 左图中builds文件夹里有两个build文件夹，分别为axe，goldenaxe。
@@ -26,7 +26,7 @@
     <img src="../../public/images/build-name-result.png" style="width:40%"/>
 </p>
 
-## 图片导入
+## 图片锚点和duration
 
 > ps: 处理swap_object，也就是手持武器贴图时需要使用，如果不使用原版动画解包素材，只是自己做动画可以不用管这个。
 
@@ -34,7 +34,7 @@
 
 2. 默认图片的duration是1，如果需要修改duration，需要将图片挂在一个皮肤占位符下，皮肤占位符名字的格式必须为 `{symbolName}-{num}`，这个num大于图片名字中的num，那么就会计算duration。
 
-3. 如果需要手动固定图片数据，需要在该builds文件夹下放入一个build.json (这个解包原本动画可以看到例子)。
+3. 如果需要手动固定图片数据，需要在该build文件夹下放入一个build.json (这个解包原本动画可以看到例子)。
 
 如下图所示：
 
@@ -62,9 +62,9 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x，
 
 ## 导出文件
 
-1. 按照图1设置，导出json文件, json文件需要放在[builds文件夹](#_1-图片文件目录命名规范)同级目录下。
+1. 按照图1设置，导出json文件, json文件需要放在[builds文件夹](#图片文件目录命名规范)同级目录下。
 
-2. 如图2所示，将导出的json文件和builds文件夹压缩为zip文件（不要使用window自动压缩）。
+2. 如图2所示，将导出的json文件和builds文件夹压缩为zip文件（不要使用window自带的压缩）。
 
 3. 将zip文件拖入网站中，可自动编译，并且能在网站上预览和编辑打包后的编译。
 
