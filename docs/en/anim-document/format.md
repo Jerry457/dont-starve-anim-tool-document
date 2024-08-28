@@ -102,5 +102,3 @@ element的作用：**从指定的build中对应的symbol下的frame-num获取矩
 </p>
 
 ## 3. tex
-
-## 4. dyn
