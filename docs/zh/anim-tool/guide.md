@@ -49,5 +49,5 @@
 2. `File Name`输入框：输入zip文件名。
 
 <p align="center">
-    <img src="../../public/images/tool-export.png"/>
+    <img src="../../assets/images/tool-export.png"/>
 </p>

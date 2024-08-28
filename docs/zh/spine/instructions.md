@@ -23,7 +23,7 @@
 2. 点击网址左边的按钮，点击此网站的权限。
 
 <p align="center">
-    <img src="../../public/images/web-permission-button.png"/>
+    <img src="../../assets/images/web-permission-button.png"/>
 </p>
 
 <br/>
@@ -31,7 +31,7 @@
 3. 在弹出的页面中，拉到最底部，将不安全的内容改为允许。
 
 <p align="center">
-    <img src="../../public/images/web-permission.png"/>
+    <img src="../../assets/images/web-permission.png"/>
 </p>
 
 <br/>
@@ -39,5 +39,5 @@
 4. 在下图password输入框中输入key即可使用。
 
 <p align="center">
-    <img src="../../public/images/spine-password.png"/>
+    <img src="../../assets/images/spine-password.png"/>
 </p>

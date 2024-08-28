@@ -50,5 +50,5 @@ Click the `Export` button, and you can select the export settings in the pop-up 
 
 
 <p align="center">
-    <img src="../../public/images/tool-export.png"/>
+    <img src="../../assets/images/tool-export.png"/>
 </p>

@@ -22,7 +22,7 @@
     2. `Spine Setup Pose`：Select a frame of an animation as the initial pose.
 
 <p align="center">
-    <img src="../../public/images/export-to-spine-setting.png"/>
+    <img src="../../assets/images/export-to-spine-setting.png"/>
 </p>
 
 
@@ -48,21 +48,21 @@ Take `goldenaxe.zip` as an example (In the `Don't Starve Together\data\anim`), H
 6. The final result is shown in Figure 4.
 
 <p align="center">
-    <img src="../../public/images/expoet-spine-skin-setting.png"/>
+    <img src="../../assets/images/expoet-spine-skin-setting.png"/>
     <p align="center">Figure 1</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/copy-images.png"/>
+    <img src="../../assets/images/copy-images.png"/>
     <p align="center">Figure 3</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/spine-import-skin-setting.png"/>
+    <img src="../../assets/images/spine-import-skin-setting.png"/>
     <p align="center">Figure 3</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/spine-skin-result.png"/>
+    <img src="../../assets/images/spine-skin-result.png"/>
     <p align="center">Figure 4</p>
 </p>

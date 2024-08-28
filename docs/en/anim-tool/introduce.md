@@ -10,7 +10,7 @@
 
 ## Features
 
-1. You can modify build.bin and anim.bin files directly, and **view** the changes in real time.
+1. You can modify build.bin and anim.bin files directly, and view the changes in **real time**.
 
 2. You can convert build.bin and anim.bin files to readable json files.
 

@@ -20,7 +20,7 @@
     2. `Spine Setup Pose`：设置初始姿势，可选择某个动画的某一帧作为初始姿势。
 
 <p align="center">
-    <img src="../../public/images/export-to-spine-setting.png"/>
+    <img src="../../assets/images/export-to-spine-setting.png"/>
 </p>
 
 
@@ -44,21 +44,21 @@
 6. 最后的结果如图4所示。
 
 <p align="center">
-    <img src="../../public/images/expoet-spine-skin-setting.png"/>
+    <img src="../../assets/images/expoet-spine-skin-setting.png"/>
     <p align="center">图1</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/copy-images.png"/>
+    <img src="../../assets/images/copy-images.png"/>
     <p align="center">图2</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/spine-import-skin-setting.png"/>
+    <img src="../../assets/images/spine-import-skin-setting.png"/>
     <p align="center">图3</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/spine-skin-result.png"/>
+    <img src="../../assets/images/spine-skin-result.png"/>
     <p align="center">图4</p>
 </p>

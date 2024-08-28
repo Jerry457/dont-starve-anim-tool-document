@@ -22,8 +22,8 @@ As shown in the following image:
 The final compile result is as shown in the right image. There are three builds, each with a symbol, name is `axe01`.
 
 <p align="center">
-    <img src="../../public/images/build-name-example.png"/>
-    <img src="../../public/images/build-name-result.png" style="width:40%"/>
+    <img src="../../assets/images/build-name-example.png"/>
+    <img src="../../assets/images/build-name-result.png" style="width:40%"/>
 </p>
 
 ## Image attachment and duration
@@ -43,10 +43,10 @@ The image anchor point data of axe is `x = 4.5, y = 67.895`, and the correspondi
 The image anchor point data of goldenaxe is `x = 442.8, y = 109.51`, and the corresponding x, y data after compile is `x = 442.8, y = 109.51`.
 
 <p align="center">
-    <img src="../../public/images/build-frame-example.png" style="width:40%"/>
-    <img src="../../public/images/build-frame-example2.png" style="width:40%"/>
-    <img src="../../public/images/build-frame-result.png" style="width:40%"/>
-    <img src="../../public/images/build-frame-result2.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-example.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-example2.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-result.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-result2.png" style="width:40%"/>
 </p>
 
 ## Animation name format
@@ -54,8 +54,8 @@ The image anchor point data of goldenaxe is `x = 442.8, y = 109.51`, and the cor
 1. All animations must be placed in a folder. The root directory of the folder is named bank, and subdirectories will be added to the animation name, as shown below:
 
 <p align="center">
-    <img src="../../public/images/animation-name-example.png"/>
-    <img src="../../public/images/animation-name-result.png" style="width:40%"/>
+    <img src="../../assets/images/animation-name-example.png"/>
+    <img src="../../assets/images/animation-name-result.png" style="width:40%"/>
 </p>
 
 2. The slot name corresponds to the layer name in the animation. The format of the slot name is `{layerName}-{num}`. The tool will automatically remove the numeric suffix `-{num}` when packaging (optional. If no match is found for `-{num}`, the slot name is used as the layer name).
@@ -69,11 +69,11 @@ The image anchor point data of goldenaxe is `x = 442.8, y = 109.51`, and the cor
 3. Drag the zip file into the website to automatically compile it, and you can preview and edit the packaged compilation on the website.
 
 <p align="center">
-    <img src="../../public/images/spine-export-setting-en.png"/>
+    <img src="../../assets/images/spine-export-setting-en.png"/>
     <p align="center"> Figure 1 </p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/zip-example.png"/>
+    <img src="../../assets/images/zip-example.png"/>
     <p align="center"> Figure 2 </p>
 </p>

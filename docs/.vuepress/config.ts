@@ -5,8 +5,12 @@ import { viteBundler } from "@vuepress/bundler-vite"
 import { sidebarZh, sidebarEn } from "./sidebar"
 
 export default defineUserConfig({
+    head: [
+        ["link", { rel: "icon", href: "/docs/public/favicon.ico" }],
+    ],
+
     theme: defaultTheme({
-        logo: "https://vuejs.press/images/hero.png",
+        logo: "/favicon.ico",
         repo: "https://github.com/Jerry457/dont-starve-anim-tool-document",
         locales: {
             "/en/": {

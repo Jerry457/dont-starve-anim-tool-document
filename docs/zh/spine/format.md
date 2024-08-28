@@ -22,8 +22,8 @@
 最后打包的结果如右图，有三个build，每个build都有一个名为axe01的symbol。
 
 <p align="center">
-    <img src="../../public/images/build-name-example.png"/>
-    <img src="../../public/images/build-name-result.png" style="width:40%"/>
+    <img src="../../assets/images/build-name-example.png"/>
+    <img src="../../assets/images/build-name-result.png" style="width:40%"/>
 </p>
 
 ## 图片锚点和duration
@@ -43,10 +43,10 @@ axe的图片锚点数据是x = 4.5，y = 67.895，对应打包后的x， y数据
 goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x， y数据就是x = 442.8，y = 109.51。
 
 <p align="center">
-    <img src="../../public/images/build-frame-example.png" style="width:40%"/>
-    <img src="../../public/images/build-frame-example2.png" style="width:40%"/>
-    <img src="../../public/images/build-frame-result.png" style="width:40%"/>
-    <img src="../../public/images/build-frame-result2.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-example.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-example2.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-result.png" style="width:40%"/>
+    <img src="../../assets/images/build-frame-result2.png" style="width:40%"/>
 </p>
 
 ## 动画命名规范
@@ -54,8 +54,8 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x，
 1. 所有动画必须放在文件夹下，文件夹根目录名为bank名，子目录会添加到animation名中，如下图所示：
 
 <p align="center">
-    <img src="../../public/images/animation-name-example.png"/>
-    <img src="../../public/images/animation-name-result.png" style="width:40%"/>
+    <img src="../../assets/images/animation-name-example.png"/>
+    <img src="../../assets/images/animation-name-result.png" style="width:40%"/>
 </p>
 
 2. 插槽名对应动画中的图层名(layer)，插槽名的格式为 `{layerName}-{num}`，在打包时工具会自动去除数字后缀 `-{num} `（可选，如果没有匹配到 `-{num}`，则使用插槽名作为图层名）。
@@ -69,11 +69,11 @@ goldenaxe的图片锚点数据是x = 442.8，y = 109.51，对应打包后的x，
 3. 将zip文件拖入网站中，可自动编译，并且能在网站上预览和编辑打包后的编译。
 
 <p align="center">
-    <img src="../../public/images/spine-export-setting.png"/>
+    <img src="../../assets/images/spine-export-setting.png"/>
     <p align="center"> 图1 </p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/zip-example.png"/>
+    <img src="../../assets/images/zip-example.png"/>
     <p align="center"> 图2 </p>
 </p>

@@ -13,7 +13,7 @@
 **将zip文件拖入到工具网站**中，即可看到文件的结构已经内容。
 
 <p align="center">
-    <img src="../../public/images/anim-file-format-example.png"/>
+    <img src="../../assets/images/anim-file-format-example.png"/>
 </p>
 
 <br/>
@@ -42,7 +42,7 @@
 4. **verts**: 该frame的顶点数据（不在图片中显示，该数据的作用是在对应的tex中寻找矩形对应的纹理）。
 
 <p align="center">
-    <img src="../../public/images/build-format-example.png"/>
+    <img src="../../assets/images/build-format-example.png"/>
 </p>
 
 <br/>
@@ -98,7 +98,7 @@ element的作用：**从指定的build中对应的symbol下的frame-num获取矩
 `inst.AnimState:Show("swap_mid")`：显示动画中所有名为swap_mid的图层。
 
 <p align="center">
-    <img src="../../public/images/anim-format-example.png"/>
+    <img src="../../assets/images/anim-format-example.png"/>
 </p>
 
 ## 3. tex

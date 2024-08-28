@@ -6,7 +6,7 @@ Compiling Spine files into a format for "Don't Starve" will not preserve skeleta
 
 Unpacking "Don't Starve" files into a Spine project will not export skeletal data; you will need to manually recreate the skeleton. Some complex animation packs may export with inaccurate transformations, requiring manual adjustments.
 
-Spine-related features are a paid service. Please contact the author for purchase. Dscord: https://discord.gg/78Y4FaGq3U.
+Spine-related features are a paid service. Please contact the author for purchase. [Dscord](https://discord.gg/78Y4FaGq3U).
 
 Please note that there are no refunds service.
 
@@ -23,7 +23,7 @@ Please note that there are no refunds service.
 2. Click the button to the left of the URL，Click `Site Settings`。
 
 <p align="center">
-    <img src="../../public/images/web-permission-button-en.png"/>
+    <img src="../../assets/images/web-permission-button-en.png"/>
 </p>
 
 <br/>
@@ -31,7 +31,7 @@ Please note that there are no refunds service.
 3. In the pop-up page, scroll to the bottom and set the `Insecure content` content to Allowed.
 
 <p align="center">
-    <img src="../../public/images/web-permission-en.png"/>
+    <img src="../../assets/images/web-permission-en.png"/>
 </p>
 
 <br/>
@@ -39,5 +39,5 @@ Please note that there are no refunds service.
 4. Enter key in the password input box in the figure below to use Spine features.
 
 <p align="center">
-    <img src="../../public/images/spine-password.png"/>
+    <img src="../../assets/images/spine-password.png"/>
 </p>
