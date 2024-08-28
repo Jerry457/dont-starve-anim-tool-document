@@ -11,8 +11,8 @@
 ## 饥荒动画转Spine
 
 1. 如下图，选择饥荒动画文件（这里选择的是axe.zip文件，位于Don't Starve Together\data\anim文件夹下），点击export按钮，选择type为Spine。
-2. 点击Download按钮，下载文件，即可。
-3. 将下载好的zip文件，解压到文件夹中，将其中的json文件拖入Spine编辑器中，在皮肤栏中选择对应的皮肤即可。
+2. 点击Download按钮，下载文件。
+3. 将下载好的zip文件，解压到文件夹中，将其中的json文件拖入Spine编辑器中，在皮肤栏中选择对应的皮肤。
 
 4. 可选功能，下图矩形选框中的按钮：
     1. `all symbol frames`：导出同一symbol下的所有图。
@@ -29,7 +29,7 @@
 
 以goldenaxe.zip为例（位于Don't Starve Together\data\anim文件夹下），步骤如下：
 
-1. 将goldenaxe.zip和axe.zip拖入网站中
+1. 将goldenaxe.zip和axe.zip拖入网站中。
 
 2. 导出选项中的选择动画数据需要**包含**上一个项目的动画数据，可选项和上一个项目一致。
     如图1：因此选择bank为axe，选择goldenaxe为build，不勾选可选按钮。并且下载文件。
@@ -49,12 +49,12 @@
 </p>
 
 <p align="center">
-    <img src="../../public/images/spine-import-skin-setting.png"/>
+    <img src="../../public/images/copy-images.png"/>
     <p align="center">图2</p>
 </p>
 
 <p align="center">
-    <img src="../../public/images/copy-images.png"/>
+    <img src="../../public/images/spine-import-skin-setting.png"/>
     <p align="center">图3</p>
 </p>
 

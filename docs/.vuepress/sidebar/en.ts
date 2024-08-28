@@ -3,58 +3,62 @@ import { SidebarOptions } from '@vuepress/theme-default'
 export const sidebarEn: SidebarOptions = {
     "/en": [
         {
-            text: "饥荒动画",
+            text: "Anim Tool",
             collapsible: true,
             children: [
                 {
-                    text: "文件格式",
-                    link: "/zh/anim-document/format.md",
-                }
-            ]
-        },
-        {
-            text: "动画工具",
-            collapsible: true,
-            children: [
+                    text: "Introduce",
+                    link: "/en/anim-tool/introduce.md",
+                },
                 {
-                    text: "导出",
-                    link: "/zh/anim-tool/export.md",
+                    text: "Guide",
+                    link: "/en/anim-tool/guide.md",
                 },
             ]
         },
         {
-            text: "Spine工具",
+            text: "Spine Tool",
             collapsible: true,
             children: [
                 {
-                    text: "介绍",
-                    link: "/zh/spine/introduce.md",
+                    text: "Introduce",
+                    link: "/en/spine/introduce.md",
                 },
                 {
-                    text: "使用须知",
-                    link: "/zh/spine/instructions.md",
+                    text: "Instructions",
+                    link: "/en/spine/instructions.md",
                 },
                 {
-                    text: "支持功能",
-                    link: "/zh/spine/support.md",
+                    text: "Support",
+                    link: "/en/spine/support.md",
                 },
                 {
-                    text: "格式规范",
-                    link: "/zh/spine/format.md",
+                    text: "Format",
+                    link: "/en/spine/format.md",
                 },
                 {
-                    text: "导入导出",
-                    link: "/zh/spine/export-import.md",
+                    text: "Export Import",
+                    link: "/en/spine/export-import.md",
                 },
                 {
-                    text: "常见问题",
-                    link: "/zh/spine/errors.md",
+                    text: "Problem Solving",
+                    link: "/en/spine/problem-solving.md",
                 },
                 {
-                    text: "使用案例",
-                    link: "/zh/spine/example.md",
+                    text: "Examples",
+                    link: "/en/spine/example.md",
                 }
             ]
         },
+        // {
+        //     text: "饥荒动画格式",
+        //     collapsible: true,
+        //     children: [
+        //         {
+        //             text: "文件格式",
+        //             link: "/en/anim-document/format.md",
+        //         }
+        //     ]
+        // },
     ],
 }

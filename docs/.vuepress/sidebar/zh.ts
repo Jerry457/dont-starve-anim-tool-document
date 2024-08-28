@@ -42,7 +42,7 @@ export const sidebarZh: SidebarOptions = {
                 },
                 {
                     text: "常见问题",
-                    link: "/zh/spine/errors.md",
+                    link: "/zh/spine/problem-solving.md",
                 },
                 {
                     text: "使用案例",

@@ -12,11 +12,6 @@
 
 点击export按钮，可以在弹出的导出界面进行选择导出的设置，最后点击Download按钮下载导出的文件。导出界面如下图所示：
 
-<p align="center">
-    <img src="../../public/images/tool-export.png"/>
-</p>
-
-
 ### Type选项
 
 1. json：导出json格式的动画文件。
@@ -37,18 +32,22 @@
 
 1. 勾选框表示是否导出该内容。
 
-2. `Atlas`：是否导出tex纹理集，对图片进行改动时需要勾选这个按钮。
+2. `Atlas`：是否导出tex纹理集。
 
 3. `spit`：是否导将贴图集切分为单独的图片。
 
-4. `repake`：重新打包tex纹理集。
+4. `repake`：重新打包tex纹理集。对图片进行改动时需要勾选这个按钮。
 
 5. `dyn`：是否导出为dyn格式的动画文件。
 
 6. `Merge Build name`输入框：在勾选了多个Build时，导出时会将多个Build合并为一个，可输入合并后的Build名称。
 
-### zip选项
+### Zip选项
 
 1. 勾选框表示是否压缩导出文件为zip格式。
 
 2. `File Name`输入框：输入zip文件名。
+
+<p align="center">
+    <img src="../../public/images/tool-export.png"/>
+</p>
