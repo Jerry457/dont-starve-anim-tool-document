@@ -14,9 +14,11 @@
 
 2. Click the `Download` button to download the file.
 
-3. Unzip the downloaded zip file into a folder, drag the json file into the Spine editor, and select the corresponding skin in the skin column.
+3. Unzip the downloaded zip file into a folder, drag the json file into the Spine editor.
 
-4. Optional functions, buttons in the rectangular selection box below:
+4. In the Spine editor, enable the corresponding skin. If the pose is not exported, you need to switch to the animation editing interface to see the animation.
+
+5. Optional functions, buttons in the rectangular selection box below:
     1. `all symbol frames`：Export all images under the same symbol.
 
     2. `Spine Setup Pose`：Select a frame of an animation as the initial pose.

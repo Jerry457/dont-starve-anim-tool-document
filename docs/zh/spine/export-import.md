@@ -11,10 +11,14 @@
 ## 饥荒动画转Spine
 
 1. 如下图，选择饥荒动画文件（这里选择的是axe.zip文件，位于Don't Starve Together\data\anim文件夹下），点击export按钮，选择type为Spine。
-2. 点击Download按钮，下载文件。
-3. 将下载好的zip文件，解压到文件夹中，将其中的json文件拖入Spine编辑器中，在皮肤栏中选择对应的皮肤。
 
-4. 可选功能，下图矩形选框中的按钮：
+2. 点击Download按钮，下载文件。
+
+3. 将下载好的zip文件，解压到文件夹中，将其中的json文件拖入Spine编辑器中。
+
+4. 在Spine编辑器中，启用相应的皮肤，如果没有导出姿势，则需要切换到动画编辑界面，才能看到动画。
+
+5. 可选功能，下图矩形选框中的按钮：
     1. `all symbol frames`：导出同一symbol下的所有图。
 
     2. `Spine Setup Pose`：设置初始姿势，可选择某个动画的某一帧作为初始姿势。
