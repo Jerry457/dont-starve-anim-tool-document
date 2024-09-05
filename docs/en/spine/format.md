@@ -1,6 +1,6 @@
 <h2>Note: All names mentioned in this document must not contain special characters.</h2>
 
-Example File:[axe-example](https://github.com/Jerry457/dont-starve-anim-tool-document/tree/main/docs/public/spine-anims/axe-example.zip)
+Example File:[axe-example](https://github.com/Jerry457/dont-starve-anim-tool-document/tree/main/docs/assets/spine-anims/axe-example.zip)
 
 ## Image file name format
 

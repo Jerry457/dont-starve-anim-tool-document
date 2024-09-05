@@ -1,6 +1,6 @@
 <h2>注意：本文中所有提到的命名均不能出现中文字符和特殊字符。</h2>
 
-示例文件:[axe-example](https://github.com/Jerry457/dont-starve-anim-tool-document/tree/main/docs/public/spine-anims/axe-example.zip)
+示例文件:[axe-example](https://github.com/Jerry457/dont-starve-anim-tool-document/tree/main/docs/assets/spine-anims/axe-example.zip)
 
 ## 图片文件目录命名规范
 

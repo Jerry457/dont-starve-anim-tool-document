@@ -6,7 +6,7 @@ import { sidebarZh, sidebarEn } from "./sidebar"
 
 export default defineUserConfig({
     head: [
-        ["link", { rel: "icon", href: "/docs/public/favicon.ico" }],
+        ["link", { rel: "icon", href: "/docs/assets/favicon.ico" }],
     ],
 
     theme: defaultTheme({
