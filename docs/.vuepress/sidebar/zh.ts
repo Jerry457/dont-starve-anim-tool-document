@@ -51,6 +51,24 @@ export const sidebarZh: SidebarOptions = {
             ]
         },
         {
+            text: "Adobe Photoshop插件",
+            collapsible: true,
+            children: [
+                {
+                    text: "指南",
+                    link: "/zh/psd/instructions.md",
+                },
+                {
+                    text: "格式规范",
+                    link: "/zh/psd/format.md",
+                },
+                {
+                    text: "模板",
+                    link: "/zh/psd/template.md",
+                }
+            ]
+        },
+        {
             text: "饥荒动画格式",
             collapsible: true,
             children: [
