@@ -45,8 +45,8 @@ export const sidebarZh: SidebarOptions = {
                     link: "/zh/spine/problem-solving.md",
                 },
                 {
-                    text: "使用案例",
-                    link: "/zh/spine/example.md",
+                    text: "模板",
+                    link: "/zh/spine/template.md",
                 }
             ]
         },

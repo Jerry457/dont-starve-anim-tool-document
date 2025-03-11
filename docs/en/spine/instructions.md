@@ -6,7 +6,7 @@ Compiling Spine files into a format for "Don't Starve" will not preserve skeleta
 
 Unpacking "Don't Starve" files into a Spine project will not export skeletal data; you will need to manually recreate the skeleton. Some complex animation packs may export with inaccurate transformations, requiring manual adjustments.
 
-Spine-related features are a paid service. Please contact the author for purchase. [Dscord](https://discord.gg/78Y4FaGq3U).
+Spine curve and transformations features are a paid service. Please contact the author for purchase. [Dscord](https://discord.gg/78Y4FaGq3U).
 
 Please note that there are no refunds service.
 
