@@ -55,17 +55,17 @@ export const sidebarZh: SidebarOptions = {
             collapsible: true,
             children: [
                 {
+                    text: "快速开始",
+                    link: "/zh/psd/fast-start.md",
+                },
+                {
                     text: "指南",
-                    link: "/zh/psd/instructions.md",
+                    link: "/zh/psd/guide.md",
                 },
                 {
                     text: "格式规范",
                     link: "/zh/psd/format.md",
                 },
-                {
-                    text: "模板",
-                    link: "/zh/psd/template.md",
-                }
             ]
         },
         {
