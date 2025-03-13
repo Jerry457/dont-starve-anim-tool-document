@@ -1,10 +1,14 @@
 ## Ps插件安装
 
-找到ps根目录下的`Plug-ins`文件夹，将插件压缩包解压到该文件夹，重启ps后即可看到插件面板。
+1. ps的版本要在24.4以上
+
+2. 找到ps根目录下的`Plug-ins`文件夹，将插件压缩包解压到该文件夹。
 
 <p align="center" style="width:50%">
     <img src="../../assets/images/ps-plugin-install.png"/>
 </p>
+
+3. 重启ps，在上方菜单栏中的 增效工具>Bolt Upx> Don't Starve Abun Plugin 可以打开插件面板。
 
 
 ## 导入psd文件
